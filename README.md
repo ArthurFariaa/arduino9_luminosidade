@@ -1,4 +1,4 @@
-# arduino9_luminosidade
+# Arduino com fotoresitor
  leitura de um fotoresistor e armazenado em uma variável
 
 ## Contextualização
